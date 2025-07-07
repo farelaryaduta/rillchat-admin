@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- AI Character Body -->
+  <path d="M400 600c110 0 200-90 200-200S510 200 400 200 200 290 200 400s90 200 200 200z" fill="#003B8E"/>
+  
+  <!-- Wings -->
+  <path d="M250 350c-30-20-60 0-60 30s30 50 60 30l-30-30 30-30z" fill="#FF4B4B"/>
+  <path d="M550 350c30-20 60 0 60 30s-30 50-60 30l30-30-30-30z" fill="#FF4B4B"/>
+  
+  <!-- Face -->
+  <circle cx="350" cy="380" r="30" fill="white"/> <!-- Left eye -->
+  <circle cx="450" cy="380" r="30" fill="white"/> <!-- Right eye -->
+  <circle cx="360" cy="390" r="15" fill="#000"/> <!-- Left pupil -->
+  <circle cx="460" cy="390" r="15" fill="#000"/> <!-- Right pupil -->
+  <path d="M375 450c0 20 50 40 50 20s-50-20-50-20z" fill="#FF9999"/> <!-- Cheeks -->
+  
+  <!-- Smile -->
+  <path d="M350 460c30 20 100 20 100 0" stroke="#000" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- AI Text -->
+  <text x="380" y="550" font-family="Arial Black" font-size="80" fill="white">AI</text>
+</svg> 
